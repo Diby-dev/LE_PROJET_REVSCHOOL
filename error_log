@@ -1,0 +1,24 @@
+[04-Nov-2025 12:01:02 UTC] PHP Fatal error:  Trait "Laravel\Sanctum\HasApiTokens" not found in /home/yacons/public_html/revschool/app/Models/User.php on line 11
+[04-Nov-2025 12:04:24 UTC] PHP Fatal error:  Trait "Laravel\Sanctum\HasApiTokens" not found in /home/yacons/public_html/revschool/app/Models/User.php on line 11
+[04-Nov-2025 12:51:56 UTC] PHP Fatal error:  Cannot declare class App\Providers\AppServiceProvider, because the name is already in use in /home/yacons/public_html/revschool/database/migrations/2025_11_04_124702_create_sessions_table.php on line 8
+[04-Nov-2025 12:54:41 UTC] PHP Fatal error:  Cannot declare class App\Providers\AppServiceProvider, because the name is already in use in /home/yacons/public_html/revschool/database/migrations/2025_11_04_124702_create_sessions_table.php on line 8
+[10-Nov-2025 20:12:00 UTC] PHP Warning:  require(/home/yacons/public_html/revschool/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/yacons/public_html/revschool/index.php on line 14
+[10-Nov-2025 20:12:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yacons/public_html/revschool/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yacons/public_html/revschool/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yacons/public_html/revschool/index.php on line 14
+[10-Nov-2025 20:12:05 UTC] PHP Warning:  require(/home/yacons/public_html/revschool/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/yacons/public_html/revschool/index.php on line 14
+[10-Nov-2025 20:12:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yacons/public_html/revschool/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yacons/public_html/revschool/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yacons/public_html/revschool/index.php on line 14
+[10-Nov-2025 20:12:24 UTC] PHP Warning:  require(/home/yacons/public_html/revschool/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/yacons/public_html/revschool/index.php on line 14
+[10-Nov-2025 20:12:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yacons/public_html/revschool/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yacons/public_html/revschool/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yacons/public_html/revschool/index.php on line 14
+[10-Nov-2025 20:16:20 UTC] PHP Warning:  require(/home/yacons/public_html/revschool/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/yacons/public_html/revschool/index.php on line 14
+[10-Nov-2025 20:16:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yacons/public_html/revschool/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yacons/public_html/revschool/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yacons/public_html/revschool/index.php on line 14
