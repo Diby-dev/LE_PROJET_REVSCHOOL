@@ -43,5 +43,5 @@ Assurez-vous d'avoir installé PHP, Composer, et un gestionnaire de base de donn
 
 ### 2. Clonage du dépôt
 ```bash
-git clone [https://github.com/votre-username/nom-du-repo.git](https://github.com/votre-username/nom-du-repo.git)
-cd nom-du-repo
+git clone [https://github.com/Diby-dev/LE_PROJET_REVSCHOOL.git](https://github.com/Diby-dev/LE_PROJET_REVSCHOOL.git)
+cd LE_PROJET_REVSCHOOL
