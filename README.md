@@ -38,7 +38,7 @@ Développée en une semaine dans le cadre d'une mission chez YA CONSULTING, l'ap
 
 Si vous souhaitez cloner le projet et le lancer en local, suivez les étapes suivantes :
 
-### 1. Prérequis
+### 1. Prérequis 
 Assurez-vous d'avoir installé PHP (Laravel), Composer, et un gestionnaire de base de données comme MySQL.
 
 ### 2. Clonage du dépôt
